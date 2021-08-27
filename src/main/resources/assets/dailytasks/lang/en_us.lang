@@ -1,0 +1,24 @@
+gui.tasks.title=Tasks
+gui.tasks.streak=Streak: %s
+gui.tasks.close=Close
+gui.tasks.claim=Claim Rewards
+gui.tasks.claim1=Claim
+gui.tasks.timer=Time Left: %s
+gui.tasks.completed=Tasks Done: (%s/%s)
+gui.tasks.popup=Choose Reward
+
+task.break_blocks.description=Break Blocks
+task.milk_cow.description=Milk a Cow
+task.gather_items.description=Gather Items
+task.breed_animals.description=Breed Animals
+task.craft_items.description=Craft Items
+task.kill_mobs.description=Kill Creatures
+task.deal_damage.description=Deal Damage
+task.take_damage.description=Take Damage
+task.travel_distance.description=Travel Distance (m)
+task.mount_travel_distance.description=Ride Distance (m)
+task.sail_distance.description=Sail Distance (m)
+task.eat_food.description=Eat Food
+task.use_items.description=Use Items
+task.block_arrows.description=Block Arrows
+task.block_damage.description=Block Damage

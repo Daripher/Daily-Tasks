@@ -1,0 +1,16 @@
+[
+{
+  "modid": "dailytasks",
+  "name": "Daily Tasts",
+  "description": "",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["daripher"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
