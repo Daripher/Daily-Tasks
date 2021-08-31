@@ -81,7 +81,7 @@ public class TaskSailDistance implements ITask
 			if (tasks.getProgress(task) == task.getMaxProgress())
 				continue;
 			
-			if (task instanceof TaskMountTravelDistance)
+			if (task instanceof TaskSailDistance)
 			{
 				double deltaX = event.player.posX - event.player.prevPosX;
 				double deltaY = event.player.posY - event.player.prevPosY;
